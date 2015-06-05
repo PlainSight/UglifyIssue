@@ -8,7 +8,7 @@ After cloneing the repo simply run:
 
 This will generate a build folder with a minified and a map file.
 
-(Alternately simply run `uglifyjs testcase.js --source-map testcase.js.map -o testcase.min.js` in the src folder to see the map file produced.)
+(Alternately simply run `uglifyjs testcase.js --source-map testcase.js.map -o testcase.min.js` in the src folder)
 
 minified file produced
 
